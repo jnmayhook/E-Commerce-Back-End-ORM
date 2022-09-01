@@ -19,7 +19,7 @@ Open your terminal and type `npm install` or `npm i` to install the dependencies
 
 
 ## Demo Video
-[Demo video in progress, coming soon..]()
+[Click here for a demo of the app run via the command line.](https://drive.google.com/file/d/1Dk9YDPxN_kFPBZ2W70kxrCUp95zyu-2F/view)
 
 
 
